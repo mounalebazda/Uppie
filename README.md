@@ -1,5 +1,5 @@
 # Title :
-"UPPIE is an innovative educational app designed to enhance the learning experience of young children through interactive quiz-based gameplay. Developed during the 2020/2021 academic year by a team of enthusiastic students from the Classe Préparatoire Intégré, this project aims to leverage cutting-edge technology to foster early childhood education. The app focuses on engaging children in a fun and educational environment, where they can improve their concentration, memory, and social skills while navigating through various learning domains structured into progressive levels.
+"UPPIE is an innovative educational app designed to enhance the learning experience of young children through interactive quiz-based gameplay. Developed during the 2020/2021 academic year by a team of enthusiastic students, this project aims to leverage cutting-edge technology to foster early childhood education. The app focuses on engaging children in a fun and educational environment, where they can improve their concentration, memory, and social skills while navigating through various learning domains structured into progressive levels.
 
 # Technologies Used :
 
