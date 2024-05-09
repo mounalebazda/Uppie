@@ -24,13 +24,14 @@ As a capstone project, UPPIE not only demonstrates the practical application of 
 <p>
   <img src="./assets/1.jpg" alt="App Screen 1" width="200" style="margin-right: 10px;"/>
   <img src="./assets/2.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/3.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/4.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/5.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/6.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/7.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/8.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
-
-
+  <img src="./assets/3.jpg" alt="App Screen 3" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/4.jpg" alt="App Screen 4" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/5.jpg" alt="App Screen 5" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/6.jpg" alt="App Screen 6" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/7.jpg" alt="App Screen 7" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/8.jpg" alt="App Screen 8" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/9.jpg" alt="App Screen 9" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/10.jpg" alt="App Screen 10" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/11.jpg" alt="App Screen 11" width="200" style="margin-right: 10px;"/>
 </p>
 
