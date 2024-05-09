@@ -18,3 +18,9 @@ As a capstone project, UPPIE not only demonstrates the practical application of 
 - Personalized user experiences with customizable avatars and learning paths.
 - Real-time data synchronization and secure user management with Firebase.
 - Engaging and child-friendly interface designed with Flutter for multi-platform compatibility.
+
+# Application Screeshots
+
+![Page](./assets/1.jpg)  ![Page](./assets/2.jpg)
+
+
