@@ -23,6 +23,14 @@ As a capstone project, UPPIE not only demonstrates the practical application of 
 
 <p>
   <img src="./assets/1.jpg" alt="App Screen 1" width="200" style="margin-right: 10px;"/>
-  <img src="./assets/2.jpg" alt="App Screen 2" width="200"/>
+  <img src="./assets/2.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/3.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/4.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/5.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/6.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/7.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/8.jpg" alt="App Screen 2" width="200" style="margin-right: 10px;"/>
+
+
 </p>
 
