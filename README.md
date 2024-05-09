@@ -21,6 +21,8 @@ As a capstone project, UPPIE not only demonstrates the practical application of 
 
 # Application Screeshots
 
-![Page](./assets/1.jpg)  ![Page](./assets/2.jpg)
-
+<p>
+  <img src="./assets/1.jpg" alt="App Screen 1" width="200" style="margin-right: 10px;"/>
+  <img src="./assets/2.jpg" alt="App Screen 2" width="200"/>
+</p>
 
