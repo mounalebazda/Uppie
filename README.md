@@ -9,7 +9,6 @@
 - Figma: Utilized for UI/UX design, ensuring the app is intuitive and user-friendly for children.
 - Adobe Illustrator & Adobe After Effects: Employed for creating high-quality graphics and animations that enhance the visual appeal and engagement of the app.
 
-As a capstone project, UPPIE not only demonstrates the practical application of theoretical knowledge but also contributes significantly to the ed-tech field by addressing the specific learning needs of young learners. This project represents a pivotal step towards integrating educational technology into early childhood education, making learning both fun and effective."
 
 # Key Features :
 
